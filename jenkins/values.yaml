@@ -3,3 +3,4 @@ service:
 persistence:
   enabled: false
 jenkinsPassword: student
+jenkinsUser: admin
